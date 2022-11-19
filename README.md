@@ -1,6 +1,6 @@
 # wolfram circle
 
-https://greggelong.github.io/worlframCircle
+https://greggelong.github.io/wolframCircle
 
 
 Wolfram Elementary Cellular Automaton plotted around a circle
